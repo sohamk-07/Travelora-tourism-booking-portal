@@ -1,0 +1,6 @@
+{
+  "name": "Travelora - Tourist & Travel Booking Portal",
+  "description": "Discover Incredible India and global destinations, luxury heritage hotels, and book curated tour packages with complete customization, reservation management, INR currency, and Supabase integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
